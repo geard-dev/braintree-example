@@ -1,4 +1,4 @@
-# Braintree Express Example
+# Braintree Example
 
 An example Braintree integration for Node in the Express framework.
 
